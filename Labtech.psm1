@@ -1,5 +1,5 @@
 ﻿# Auto detect text files and perform LF normalization
-* text=auto
+#* text=auto
 <#
 .SYNOPSIS
     This is a PowerShell Module for LabTech.
